@@ -9,7 +9,8 @@ Submission for the 2020 MLH Summer League RookieHacks Hackathon. An implementati
 </p>
 
 <p align="center">
-A link to an online demo version can be found here: <a href="https://onlinepassport.netlify.app" target="_blank">onlinepassport.netlify.app</a>
+A link to our project submission video can be found here: <a href="https://drive.google.com/file/d/1yRPO3nWDXIyjw9tXpG5frUwAOSV0XH33/view?usp=drive_link" target="_blank">Online Passport Explanation</a>
+A link to a demo video can be found here: <a href="https://drive.google.com/file/d/1leMO5HWFl_MV5tBDcNmCEfRv5TB2O1KA/view?usp=sharing" target="_blank">Online Passport Demo</a>
 </p>
 
 
